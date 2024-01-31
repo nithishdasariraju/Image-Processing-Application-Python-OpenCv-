@@ -3,7 +3,7 @@
  Image processing Application created by Python (OpenCV Python, NumPy and Tkinter).
 
 ## Pipeline
-1) Select the directory containing PNG pictures for processing images with All-in-Focus.
+1) Select the directory containing PNG pictures for processing images with Image Processing.
 2) Load this image and the following image.
 3) Verify whether an image is grayscale or RGB.
 4) Determine each image's gradient in the x and y directions.
